@@ -12,8 +12,9 @@ const Home = () => {
           <Posts />
           <div id="pos-article-display-95428"></div>
           <Posts />
-          <div id="pos-article-display-95428"></div>
+          <div id="pos-article-text-95472"></div>
           <Posts />
+          <div id="pos-article-display-95429"></div>
         </div>
         <div className="col-span-0 md:col-span-2">
           <div id="pos-article-display-95427"></div>
