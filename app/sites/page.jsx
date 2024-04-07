@@ -10,8 +10,8 @@ const Sites = () => {
                     <li>
                         <h2 className="menu-title">لیست سایت ها </h2>
                         <ul>
-                            <li><a href='https://clicktlick.netlify.app/'>سایت ۱</a></li>
-                            <li><a href='https://clickplick.netlify.app/'>سایت ۲ </a></li>
+                            <li><a href='https://clicktlick.netlify.app/'>سایت 1</a></li>
+                            <li><a href='https://clickplick.netlify.app/'>سایت 2 </a></li>
                         </ul>
                     </li>
                 </ul>
